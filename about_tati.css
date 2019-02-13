@@ -1,0 +1,17 @@
+/* 
+* Tati Mendez
+* February 8, 2019
+* CSS for About Me Web Page
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+    background-color: cornsilk;
+}
